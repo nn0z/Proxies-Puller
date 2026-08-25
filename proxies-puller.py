@@ -179,4 +179,4 @@ if __name__ == "__main__":
                 f"{Colors.BOLD}[*] Successfully merged and saved proxies into: {filename} (Total proxies inside file: {len(total_combined)}){Colors.ENDC}")
             print(f"{Colors.WARNING}[*] Duplicates removed : {duplicates_removed}{Colors.ENDC}")
         else:
-            print(f"{Colors.FAIL}[-] No active proxies found at this moment.{Colors.ENDC}")
+            print(f"{Colors.FAIL}[-] No active proxies found at this moment .{Colors.ENDC}")
